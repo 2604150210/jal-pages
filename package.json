@@ -1,0 +1,36 @@
+{
+  "name": "jal-pages",
+  "version": "0.1.0",
+  "description": "static web app workflow",
+  "keywords": [
+    "jal-pages",
+    "zce"
+  ],
+  "homepage": "https://github.com/2604150210/jal-pages#readme",
+  "bugs": {
+    "url": "https://github.com/2604150210/jal-pages/issues"
+  },
+  "license": "MIT",
+  "author": "jiailing <517486222@qq.com>",
+  "files": [
+    "lib"
+  ],
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2604150210/jal-pages.git"
+  },
+  "scripts": {
+    "lint": "standard --fix"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^13.1.0"
+  },
+  "engines": {
+    "node": ">=6"
+  }
+}
